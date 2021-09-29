@@ -1,0 +1,23 @@
+C:\Users\StudentCSS\Desktop\Gino's Pizza Solution\Gino's Pizza\obj\Debug\Gino's Pizza.vbprojResolveAssemblyReference.cache
+C:\Users\StudentCSS\Desktop\Gino's Pizza Solution\Gino's Pizza\obj\Debug\Gino_s_Pizza.Form1.resources
+C:\Users\StudentCSS\Desktop\Gino's Pizza Solution\Gino's Pizza\obj\Debug\Gino_s_Pizza.Resources.resources
+C:\Users\StudentCSS\Desktop\Gino's Pizza Solution\Gino's Pizza\obj\Debug\Gino's Pizza.vbproj.GenerateResource.Cache
+C:\Users\StudentCSS\Desktop\Gino's Pizza Solution\Gino's Pizza\bin\Debug\Ginos Pizza.exe.config
+C:\Users\StudentCSS\Desktop\Gino's Pizza Solution\Gino's Pizza\bin\Debug\Ginos Pizza.exe
+C:\Users\StudentCSS\Desktop\Gino's Pizza Solution\Gino's Pizza\bin\Debug\Ginos Pizza.pdb
+C:\Users\StudentCSS\Desktop\Gino's Pizza Solution\Gino's Pizza\bin\Debug\Ginos Pizza.xml
+C:\Users\StudentCSS\Desktop\Gino's Pizza Solution\Gino's Pizza\obj\Debug\Ginos Pizza.exe
+C:\Users\StudentCSS\Desktop\Gino's Pizza Solution\Gino's Pizza\obj\Debug\Ginos Pizza.xml
+C:\Users\StudentCSS\Desktop\Gino's Pizza Solution\Gino's Pizza\obj\Debug\Ginos Pizza.pdb
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\bin\Debug\Ginos Pizza.exe.config
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\bin\Debug\Ginos Pizza.exe
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\bin\Debug\Ginos Pizza.pdb
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\bin\Debug\Ginos Pizza.xml
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\obj\Debug\Gino's Pizza.vbprojAssemblyReference.cache
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\obj\Debug\Gino_s_Pizza.Form1.resources
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\obj\Debug\Gino_s_Pizza.Resources.resources
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\obj\Debug\Gino's Pizza.vbproj.GenerateResource.cache
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\obj\Debug\Gino's Pizza.vbproj.CoreCompileInputs.cache
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\obj\Debug\Ginos Pizza.exe
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\obj\Debug\Ginos Pizza.xml
+C:\Users\Auxy\Documents\Programming\Python\CS270 Projects\Jeremy's Pizza\Gino's Pizza\obj\Debug\Ginos Pizza.pdb
